@@ -21,7 +21,7 @@ function loadTrack() {
 	resetValues();
 
 	// Load a new track
-	curr_track.src = "./music/notion.webm";
+	curr_track.src = "./music/tsuki.webm";
 	curr_track.loop = true;
 	curr_track.load();
 

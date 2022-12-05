@@ -6,7 +6,11 @@ body, html {
 }
 
 body {
-  background-color: #222220;
+  background-image: url('https://i.etsystatic.com/25536768/r/il/57013e/3897020086/il_fullxfull.3897020086_as3c.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
 }
 
 video {
@@ -188,7 +192,7 @@ i.fa-step-backward {
 
 .container {
   position: relative;
-  margin-top: 4rem;
+  margin-top: 8rem;
   padding-top: 2rem;
   left: 50%;
   transform: translateX(-50%);
